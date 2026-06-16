@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rapp.history
+write-up/
+*.utf8.md
+*.knit.md

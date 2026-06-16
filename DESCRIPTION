@@ -1,0 +1,14 @@
+Package: sadMCDM
+Title: Multi-Criteria Decision Making Solvers
+Version: 0.1.0
+Authors@R: person("Pedro", "Gouveia", email = "pedrogouveia001@users.noreply.github.com", role = c("aut", "cre"))
+Description: Provides unified, robust solvers and sensitivity analysis tools for various Multi-Criteria Decision Making (MCDM) methods including AHP, BWM, BWT, ELECTRE, MACBETH, PROMETHEE, SMARTS/SMARTER, TOPSIS, and VIKOR.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Imports:
+    lpSolve
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
