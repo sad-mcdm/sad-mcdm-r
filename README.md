@@ -1,6 +1,6 @@
 # sadMCDM: Multi-Criteria Decision Making Solvers
 
-Biblioteca R unificada de resolvedores e simulação de Monte Carlo para Apoio à Decisão Multicritério (MCDM - Multi-Criteria Decision Making). Esta biblioteca foi criada em R como o equivalente exato do pacote Python `sad-mcdm-lib`, fornecendo consistência matemática e suporte para o ecossistema Nexus MCDM.
+Biblioteca R unificada de resolvedores e simulação de Monte Carlo para Apoio à Decisão Multicritério (MCDM - Multi-Criteria Decision Making). Esta biblioteca foi criada em R como o equivalente exato do pacote Python `sad-mcdm-lib`, fornecendo consistência matemática e suporte para o ecossistema SAD MCDM.
 
 ## Instalação
 
