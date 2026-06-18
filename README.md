@@ -18,7 +18,7 @@ Ou diretamente pelo GitHub (após subir o repositório):
 
 ```R
 # Instalação pelo GitHub
-devtools::install_github("pedrogouveia001/sad-mcdm-r")
+devtools::install_github("sad-mcdm/sad-mcdm-r")
 ```
 
 ## Dependências
